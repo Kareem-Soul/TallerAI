@@ -1,0 +1,12 @@
+[
+  { "url":"Voice/Taller_1[1]","type":"audio","bank":"Voice","n":0},
+  { "url":"Voice/Taller_2[1]","type":"audio","bank":"Voice","n":1},
+  { "url":"Voice/Taller_3[1]","type":"audio","bank":"Voice","n":2},
+  { "url":"Voice/Taller_4[1]","type":"audio","bank":"Voice","n":3},
+  { "url":"Voice/Taller_5[1]","type":"audio","bank":"Voice","n":4},
+  { "url":"Voice/Taller_6[1]","type":"audio","bank":"Voice","n":5},
+  { "url":"Voice/Taller_7[1]","type":"audio","bank":"Voice","n":6},
+  { "url":"Voice/Taller_8[1]","type":"audio","bank":"Voice","n":7},
+  { "url":"Voice/Taller_9[1]","type":"audio","bank":"Voice","n":8}, 
+  { "url":"Voice/Taller_10[1]","type":"audio","bank":"Voice","n":9}, 
+  ]
